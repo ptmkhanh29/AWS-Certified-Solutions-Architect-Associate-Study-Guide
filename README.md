@@ -86,7 +86,7 @@ This makes S3 ideal for storing static files, backups, logs, media, and other un
 | **🛠️ Easy to Manage** | Storage management tools, lifecycle policies, and metadata-driven organization. |
 | **🔗 Easy Integration** | Works seamlessly with other AWS services and third-party tools. |
 
-## 3. 🌍 Real-Life Use Cases of Amazon S3
+## 🌍 3. Real-Life Use Cases of Amazon S3
 
 Amazon S3 is a versatile service used in a wide range of real-world scenarios across industries. Here are the most common use cases:
 
